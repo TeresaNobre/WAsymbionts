@@ -1,409 +1,409 @@
-﻿ref,site,lat,clade,haplotype,obs,n
-"zweifler, 2024",Balla Balla,-20.6375,C,C1m,8,9
-"zweifler, 2024",Balla Balla,-20.6375,C,C.b,8,9
-"zweifler, 2024",Balla Balla,-20.6375,C,C.a,8,9
-"zweifler, 2024",Balla Balla,-20.6375,C,C33.1d,9,9
-"zweifler, 2024",Balla Balla,-20.6375,C,C33.1c,9,9
-"zweifler, 2024",Balla Balla,-20.6375,C,C33.1b,9,9
-"zweifler, 2024",Balla Balla,-20.6375,C,C33.1a,9,9
-"zweifler, 2024",Dampier,-20.5367,C,C1m,9,9
-"zweifler, 2024",Dampier,-20.5367,C,C.b,9,9
-"zweifler, 2024",Dampier,-20.5367,C,C.a,9,9
-"zweifler, 2024",Dampier,-20.5367,C,C33.1d,9,9
-"zweifler, 2024",Dampier,-20.5367,C,C33.1c,9,9
-"zweifler, 2024",Dampier,-20.5367,C,C33.1b,9,9
-"zweifler, 2024",Dampier,-20.5367,C,C33.1a,9,9
-"zweifler, 2024",Dampier,-20.5367,D,D1a,1,9
-"zweifler, 2024",Montebello,-20.5211,C,C1m,10,12
-"zweifler, 2024",Montebello,-20.5211,C,C.b,9,12
-"zweifler, 2024",Montebello,-20.5211,C,C.a,9,12
-"zweifler, 2024",Montebello,-20.5211,C,C33.1e,3,12
-"zweifler, 2024",Montebello,-20.5211,C,C33.1d,10,12
-"zweifler, 2024",Montebello,-20.5211,C,C33.1c,10,12
-"zweifler, 2024",Montebello,-20.5211,C,C33.1b,9,12
-"zweifler, 2024",Montebello,-20.5211,C,C33.1a,9,12
-"zweifler, 2024",Montebello,-20.5211,C,C.e,1,12
-"zweifler, 2024",Exmouth Gulf,-22.2947,C,C1m,10,11
-"zweifler, 2024",Exmouth Gulf,-22.2947,C,C.b,11,11
-"zweifler, 2024",Exmouth Gulf,-22.2947,C,C.a,10,11
-"zweifler, 2024",Exmouth Gulf,-22.2947,C,C33.1e,2,11
-"zweifler, 2024",Exmouth Gulf,-22.2947,C,C33.1d,10,11
-"zweifler, 2024",Exmouth Gulf,-22.2947,C,C33.1c,10,11
-"zweifler, 2024",Exmouth Gulf,-22.2947,C,C33.1b,9,11
-"zweifler, 2024",Exmouth Gulf,-22.2947,C,C33.1a,10,11
-"zweifler, 2024",Exmouth Gulf,-22.2947,C,C.e,1,11
-"zweifler, 2024",Exmouth Gulf,-22.2947,C,C.d,1,11
-"zweifler, 2024",Exmouth Gulf,-22.2947,A,A.a,1,11
-"zweifler, 2024",Shark Bay,-25.8514,C,C1m,4,5
-"zweifler, 2024",Shark Bay,-25.8514,C,C.b,4,5
-"zweifler, 2024",Shark Bay,-25.8514,C,C.a,4,5
-"zweifler, 2024",Shark Bay,-25.8514,C,C33.1d,4,5
-"zweifler, 2024",Shark Bay,-25.8514,C,C33.1c,4,5
-"zweifler, 2024",Shark Bay,-25.8514,C,C.e,1,5
-"zweifler, 2024",Perth,-31.6925,C,C1m,8,9
-"zweifler, 2024",Perth,-31.6925,C,C.b,7,9
-"zweifler, 2024",Perth,-31.6925,C,C.a,4,9
-"zweifler, 2024",Perth,-31.6925,C,C33.1e,1,9
-"zweifler, 2024",Perth,-31.6925,C,C33.1d,6,9
-"zweifler, 2024",Perth,-31.6925,C,C33.1c,7,9
-"zweifler, 2024",Perth,-31.6925,C,C33.1b,4,9
-"zweifler, 2024",Perth,-31.6925,C,C33.1a,5,9
-"zweifler, 2024",Perth,-31.6925,C,C.e ,2,9
-"zweifler, 2024",Perth,-31.6925,C,C.d,2,9
-"zweifler, 2024",Perth,-31.6925,F,F,1,9
-"zweifler, 2024",Perth,-31.6925,C,C7,2,9
-"zweifler, 2024",Perth,-31.6925,B,B18,1,9
-"zweifler, 2024",Perth,-31.6925,C,C.c,1,9
-"silverstein, 2011",Dampier,-20.5333,C,C3ii,1,27
-"silverstein, 2011",Dampier,-20.5333,C,C40,3,27
-"silverstein, 2011",Dampier,-20.5333,D,D1a,14,27
-"silverstein, 2011",Dampier,-20.5333,C,C1c,1,27
-"silverstein, 2011",Dampier,-20.5333,C,C1h,9,27
-"silverstein, 2011",Ningaloo,-23.1333,C,C40,19,61
-"silverstein, 2011",Ningaloo,-23.1333,C,C21,1,61
-"silverstein, 2011",Ningaloo,-23.1333,C,C1,16,61
-"silverstein, 2011",Ningaloo,-23.1333,D,D1a,3,61
-"silverstein, 2011",Ningaloo,-23.1333,C,C1h,16,61
-"silverstein, 2011",Ningaloo,-23.1333,C,C123,7,61
-"silverstein, 2011",Ningaloo,-23.1333,C,C130,1,61
-"silverstein, 2011",Ningaloo,-23.1333,C,C3jj,1,61
-"silverstein, 2011",Abrolhos,-28.2667,C,C1,5,23
-"silverstein, 2011",Abrolhos,-28.2667,C,C129,2,23
-"silverstein, 2011",Abrolhos,-28.2667,C,C1gg-hh,6,23
-"silverstein, 2011",Abrolhos,-28.2667,C,C1gg,3,23
-"silverstein, 2011",Abrolhos,-28.2667,C,C125,2,23
-"silverstein, 2011",Abrolhos,-28.2667,C,C126,5,23
-"silverstein, 2011",Rottnest,-31.9965,B,B40,9,45
-"silverstein, 2011",Rottnest,-31.9965,C,C1gg,13,45
-"silverstein, 2011",Rottnest,-31.9965,C,C124,4,45
-"silverstein, 2011",Rottnest,-31.9965,C,C128,2,45
-"silverstein, 2011",Rottnest,-31.9965,B,B18,2,45
-"silverstein, 2011",Rottnest,-31.9965,C,C1c-ff,11,45
-"silverstein, 2011",Dunsborough,-33.6,C,C7d,3,18
-"silverstein, 2011",Dunsborough,-33.6,B,B18,6,18
-"silverstein, 2011",Dunsborough,-33.6,C,C1ii,4,18
-"silverstein, 2011",Dunsborough,-33.6,C,C7,3,18
-"silverstein, 2011",Dunsborough,-33.6,C,C127,2,18
-"crabbe, 2009",Coral Bay,-23.1397,A,NA,1,46
-"crabbe, 2009",Coral Bay,-23.1397,B,NA,32,46
-"crabbe, 2009",Coral Bay,-23.1397,C,NA,45,46
-"crabbe, 2009",Coral Bay,-23.1397,B,NA,7,12
-"crabbe, 2009",Coral Bay,-23.1397,C,NA,12,12
-"crabbe, 2009",Coral Bay,-23.1397,B,NA,10,26
-"crabbe, 2009",Coral Bay,-23.1397,C,NA,26,26
-"crabbe, 2009",Coral Bay,-23.1397,B,NA,13,27
-"crabbe, 2009",Coral Bay,-23.1397,C,NA,27,27
-"crabbe, 2009",Coral Bay,-23.1397,D,NA,1,27
-"thomas, 2014",Abrolhos,-28.437,C,NA,35,35
-"thomas, 2014",Abrolhos,-28.437,G,NA,3,35
-"thomas, 2014",Kimberley,-13.95,C,NA,35,35
-"thomas, 2014",Kimberley,-13.95,D,NA,4,35
-"zhang, 2022",Ashmore,-12.2273891,C,C40c,20,20
-"zhang, 2022",Ashmore,-12.2273891,C,C72d,19,20
-"zhang, 2022",Ashmore,-12.2273891,C,C40,19,20
-"zhang, 2022",Ashmore,-12.2273891,C,C40e,18,20
-"zhang, 2022",Adele Island,-15.5647154,C,C40c,29,29
-"zhang, 2022",Adele Island,-15.5647154,C,C72d,29,29
-"zhang, 2022",Adele Island,-15.5647154,C,C40,28,29
-"zhang, 2022",Adele Island,-15.5647154,C,C40e,26,29
-"zhang, 2022",Rowley Shoals,-17.3147709,C,C40c,19,22
-"zhang, 2022",Rowley Shoals,-17.3147709,C,C72d,16,22
-"zhang, 2022",Rowley Shoals,-17.3147709,C,C40,13,22
-"zhang, 2022",Rowley Shoals,-17.3147709,C,C40e,13,22
-"zhang, 2022",Rowley Shoals,-17.3147709,C,C3y,1,22
-"zhang, 2022",Rowley Shoals,-17.3147709,C,C3dl,1,22
-"duffy, 2026",North Muiron,-21.6509387,C,C21,10,10
-"duffy, 2026",South Muiron,-21.6887216,C,C21,10,10
-"duffy, 2026",North Bundegi,-21.8330332,C,C21,10,10
-"duffy, 2026",South Bundegi,-21.8627722,C,C21,9,10
-"duffy, 2026",Tantabiddi,-21.9006151,C,C21,10,10
-"duffy, 2026",Mangrove,-21.9664525,C,C21,10,10
-"duffy, 2026",Lakeside,-22.0366049,C,C21,10,10
-"duffy, 2026",Pilgonaman,-22.1411171,C,C21,10,10
-"duffy, 2026",Yardie Creek,-22.2595001,C,C21,10,10
-"duffy, 2026",South Yardie,-22.3863358,C,C21,10,10
-"duffy, 2026",Point Cloates,-22.7100516,C,C21,10,10
-"duffy, 2026",North Reef,-22.9866855,C,C21,10,10
-"duffy, 2026",South Coral Bay,-23.2727011,C,C21,10,10
-"duffy, 2026",Gnaraloo Bay,-23.7629651,C,C21,10,10
-"duffy, 2026",North Muiron,-21.6509387,C,C3,10,10
-"duffy, 2026",South Muiron,-21.6887216,C,C3,10,10
-"duffy, 2026",North Bundegi,-21.8330332,C,C3,10,10
-"duffy, 2026",South Bundegi,-21.8627722,C,C3,10,10
-"duffy, 2026",Tantabiddi,-21.9006151,C,C3,10,10
-"duffy, 2026",Mangrove,-21.9664525,C,C3,10,10
-"duffy, 2026",Lakeside,-22.0366049,C,C3,10,10
-"duffy, 2026",Pilgonaman,-22.1411171,C,C3,10,10
-"duffy, 2026",Yardie Creek,-22.2595001,C,C3,10,10
-"duffy, 2026",South Yardie,-22.3863358,C,C3,10,10
-"duffy, 2026",Point Cloates,-22.7100516,C,C3,10,10
-"duffy, 2026",North Reef,-22.9866855,C,C3,10,10
-"duffy, 2026",South Coral Bay,-23.2727011,C,C3,10,10
-"duffy, 2026",Gnaraloo Bay,-23.7629651,C,C3,10,10
-"duffy, 2026",North Muiron,-21.6509387,C,C21am,10,10
-"duffy, 2026",South Muiron,-21.6887216,C,C21am,10,10
-"duffy, 2026",North Bundegi,-21.8330332,C,C21am,10,10
-"duffy, 2026",South Bundegi,-21.8627722,C,C21am,6,10
-"duffy, 2026",Tantabiddi,-21.9006151,C,C21am,10,10
-"duffy, 2026",Mangrove,-21.9664525,C,C21am,10,10
-"duffy, 2026",Lakeside,-22.0366049,C,C21am,10,10
-"duffy, 2026",Pilgonaman,-22.1411171,C,C21am,9,10
-"duffy, 2026",Yardie Creek,-22.2595001,C,C21am,8,10
-"duffy, 2026",South Yardie,-22.3863358,C,C21am,7,10
-"duffy, 2026",Point Cloates,-22.7100516,C,C21am,7,10
-"duffy, 2026",North Reef,-22.9866855,C,C21am,9,10
-"duffy, 2026",South Coral Bay,-23.2727011,C,C21am,8,10
-"duffy, 2026",Gnaraloo Bay,-23.7629651,C,C21am,8,10
-"duffy, 2026",North Muiron,-21.6509387,C,C21fl,10,10
-"duffy, 2026",South Muiron,-21.6887216,C,C21fl,10,10
-"duffy, 2026",North Bundegi,-21.8330332,C,C21fl,10,10
-"duffy, 2026",South Bundegi,-21.8627722,C,C21fl,6,10
-"duffy, 2026",Tantabiddi,-21.9006151,C,C21fl,10,10
-"duffy, 2026",Mangrove,-21.9664525,C,C21fl,10,10
-"duffy, 2026",Lakeside,-22.0366049,C,C21fl,8,10
-"duffy, 2026",Pilgonaman,-22.1411171,C,C21fl,8,10
-"duffy, 2026",Yardie Creek,-22.2595001,C,C21fl,7,10
-"duffy, 2026",South Yardie,-22.3863358,C,C21fl,7,10
-"duffy, 2026",Point Cloates,-22.7100516,C,C21fl,7,10
-"duffy, 2026",North Reef,-22.9866855,C,C21fl,8,10
-"duffy, 2026",South Coral Bay,-23.2727011,C,C21fl,7,10
-"duffy, 2026",Gnaraloo Bay,-23.7629651,C,C21fl,7,10
-"duffy, 2026",North Muiron,-21.6509387,C,C21fm,10,10
-"duffy, 2026",South Muiron,-21.6887216,C,C21fm,10,10
-"duffy, 2026",North Bundegi,-21.8330332,C,C21fm,10,10
-"duffy, 2026",South Bundegi,-21.8627722,C,C21fm,5,10
-"duffy, 2026",Tantabiddi,-21.9006151,C,C21fm,10,10
-"duffy, 2026",Mangrove,-21.9664525,C,C21fm,10,10
-"duffy, 2026",Lakeside,-22.0366049,C,C21fm,8,10
-"duffy, 2026",Pilgonaman,-22.1411171,C,C21fm,7,10
-"duffy, 2026",Yardie Creek,-22.2595001,C,C21fm,7,10
-"duffy, 2026",South Yardie,-22.3863358,C,C21fm,7,10
-"duffy, 2026",Point Cloates,-22.7100516,C,C21fm,6,10
-"duffy, 2026",North Reef,-22.9866855,C,C21fm,6,10
-"duffy, 2026",South Coral Bay,-23.2727011,C,C21fm,7,10
-"duffy, 2026",Gnaraloo Bay,-23.7629651,C,C21fm,6,10
-"duffy, 2026",North Muiron,-21.6509387,C,C21bo,10,10
-"duffy, 2026",South Muiron,-21.6887216,C,C21bo,10,10
-"duffy, 2026",North Bundegi,-21.8330332,C,C21bo,10,10
-"duffy, 2026",South Bundegi,-21.8627722,C,C21bo,6,10
-"duffy, 2026",Tantabiddi,-21.9006151,C,C21bo,10,10
-"duffy, 2026",Mangrove,-21.9664525,C,C21bo,10,10
-"duffy, 2026",Lakeside,-22.0366049,C,C21bo,8,10
-"duffy, 2026",Pilgonaman,-22.1411171,C,C21bo,6,10
-"duffy, 2026",Yardie Creek,-22.2595001,C,C21bo,7,10
-"duffy, 2026",South Yardie,-22.3863358,C,C21bo,7,10
-"duffy, 2026",Point Cloates,-22.7100516,C,C21bo,7,10
-"duffy, 2026",North Reef,-22.9866855,C,C21bo,8,10
-"duffy, 2026",South Coral Bay,-23.2727011,C,C21bo,7,10
-"duffy, 2026",Gnaraloo Bay,-23.7629651,C,C21bo,7,10
-"duffy, 2026",North Muiron,-21.6509387,C,C21.12,0,10
-"duffy, 2026",South Muiron,-21.6887216,C,C21.12,1,10
-"duffy, 2026",North Bundegi,-21.8330332,C,C21.12,0,10
-"duffy, 2026",South Bundegi,-21.8627722,C,C21.12,2,10
-"duffy, 2026",Tantabiddi,-21.9006151,C,C21.12,0,10
-"duffy, 2026",Mangrove,-21.9664525,C,C21.12,3,10
-"duffy, 2026",Lakeside,-22.0366049,C,C21.12,6,10
-"duffy, 2026",Pilgonaman,-22.1411171,C,C21.12,7,10
-"duffy, 2026",Yardie Creek,-22.2595001,C,C21.12,7,10
-"duffy, 2026",South Yardie,-22.3863358,C,C21.12,5,10
-"duffy, 2026",Point Cloates,-22.7100516,C,C21.12,10,10
-"duffy, 2026",North Reef,-22.9866855,C,C21.12,5,10
-"duffy, 2026",South Coral Bay,-23.2727011,C,C21.12,6,10
-"duffy, 2026",Gnaraloo Bay,-23.7629651,C,C21.12,7,10
-"duffy, 2026",North Muiron,-21.6509387,C,C3b,1,10
-"duffy, 2026",South Muiron,-21.6887216,C,C3b,6,10
-"duffy, 2026",North Bundegi,-21.8330332,C,C3b,4,10
-"duffy, 2026",South Bundegi,-21.8627722,C,C3b,5,10
-"duffy, 2026",Tantabiddi,-21.9006151,C,C3b,4,10
-"duffy, 2026",Mangrove,-21.9664525,C,C3b,9,10
-"duffy, 2026",Lakeside,-22.0366049,C,C3b,8,10
-"duffy, 2026",Pilgonaman,-22.1411171,C,C3b,10,10
-"duffy, 2026",Yardie Creek,-22.2595001,C,C3b,8,10
-"duffy, 2026",South Yardie,-22.3863358,C,C3b,9,10
-"duffy, 2026",Point Cloates,-22.7100516,C,C3b,10,10
-"duffy, 2026",North Reef,-22.9866855,C,C3b,6,10
-"duffy, 2026",South Coral Bay,-23.2727011,C,C3b,8,10
-"duffy, 2026",Gnaraloo Bay,-23.7629651,C,C3b,10,10
-"duffy, 2026",North Muiron,-21.6509387,C,C3au,0,10
-"duffy, 2026",South Muiron,-21.6887216,C,C3au,0,10
-"duffy, 2026",North Bundegi,-21.8330332,C,C3au,0,10
-"duffy, 2026",South Bundegi,-21.8627722,C,C3au,3,10
-"duffy, 2026",Tantabiddi,-21.9006151,C,C3au,0,10
-"duffy, 2026",Mangrove,-21.9664525,C,C3au,0,10
-"duffy, 2026",Lakeside,-22.0366049,C,C3au,4,10
-"duffy, 2026",Pilgonaman,-22.1411171,C,C3au,5,10
-"duffy, 2026",Yardie Creek,-22.2595001,C,C3au,5,10
-"duffy, 2026",South Yardie,-22.3863358,C,C3au,5,10
-"duffy, 2026",Point Cloates,-22.7100516,C,C3au,8,10
-"duffy, 2026",North Reef,-22.9866855,C,C3au,5,10
-"duffy, 2026",South Coral Bay,-23.2727011,C,C3au,5,10
-"duffy, 2026",Gnaraloo Bay,-23.7629651,C,C3au,6,10
-"duffy, 2026",North Muiron,-21.6509387,C,C3aag,0,10
-"duffy, 2026",South Muiron,-21.6887216,C,C3aag,1,10
-"duffy, 2026",North Bundegi,-21.8330332,C,C3aag,0,10
-"duffy, 2026",South Bundegi,-21.8627722,C,C3aag,2,10
-"duffy, 2026",Tantabiddi,-21.9006151,C,C3aag,1,10
-"duffy, 2026",Mangrove,-21.9664525,C,C3aag,2,10
-"duffy, 2026",Lakeside,-22.0366049,C,C3aag,5,10
-"duffy, 2026",Pilgonaman,-22.1411171,C,C3aag,6,10
-"duffy, 2026",Yardie Creek,-22.2595001,C,C3aag,7,10
-"duffy, 2026",South Yardie,-22.3863358,C,C3aag,5,10
-"duffy, 2026",Point Cloates,-22.7100516,C,C3aag,9,10
-"duffy, 2026",North Reef,-22.9866855,C,C3aag,5,10
-"duffy, 2026",South Coral Bay,-23.2727011,C,C3aag,6,10
-"duffy, 2026",Gnaraloo Bay,-23.7629651,C,C3aag,8,10
-"duffy, 2026",North Muiron,-21.6509387,C,C39ab,0,10
-"duffy, 2026",South Muiron,-21.6887216,C,C39ab,0,10
-"duffy, 2026",North Bundegi,-21.8330332,C,C39ab,0,10
-"duffy, 2026",South Bundegi,-21.8627722,C,C39ab,2,10
-"duffy, 2026",Tantabiddi,-21.9006151,C,C39ab,0,10
-"duffy, 2026",Mangrove,-21.9664525,C,C39ab,1,10
-"duffy, 2026",Lakeside,-22.0366049,C,C39ab,3,10
-"duffy, 2026",Pilgonaman,-22.1411171,C,C39ab,4,10
-"duffy, 2026",Yardie Creek,-22.2595001,C,C39ab,4,10
-"duffy, 2026",South Yardie,-22.3863358,C,C39ab,4,10
-"duffy, 2026",Point Cloates,-22.7100516,C,C39ab,9,10
-"duffy, 2026",North Reef,-22.9866855,C,C39ab,3,10
-"duffy, 2026",South Coral Bay,-23.2727011,C,C39ab,4,10
-"duffy, 2026",Gnaraloo Bay,-23.7629651,C,C39ab,5,10
-"duffy, 2026",North Muiron,-21.6509387,C,C3fj,0,10
-"duffy, 2026",South Muiron,-21.6887216,C,C3fj,1,10
-"duffy, 2026",North Bundegi,-21.8330332,C,C3fj,0,10
-"duffy, 2026",South Bundegi,-21.8627722,C,C3fj,3,10
-"duffy, 2026",Tantabiddi,-21.9006151,C,C3fj,0,10
-"duffy, 2026",Mangrove,-21.9664525,C,C3fj,3,10
-"duffy, 2026",Lakeside,-22.0366049,C,C3fj,5,10
-"duffy, 2026",Pilgonaman,-22.1411171,C,C3fj,6,10
-"duffy, 2026",Yardie Creek,-22.2595001,C,C3fj,5,10
-"duffy, 2026",South Yardie,-22.3863358,C,C3fj,5,10
-"duffy, 2026",Point Cloates,-22.7100516,C,C3fj,9,10
-"duffy, 2026",North Reef,-22.9866855,C,C3fj,4,10
-"duffy, 2026",South Coral Bay,-23.2727011,C,C3fj,7,10
-"duffy, 2026",Gnaraloo Bay,-23.7629651,C,C3fj,8,10
-"duffy, 2026",North Muiron,-21.6509387,C,C3ad,0,10
-"duffy, 2026",South Muiron,-21.6887216,C,C3ad,1,10
-"duffy, 2026",North Bundegi,-21.8330332,C,C3ad,0,10
-"duffy, 2026",South Bundegi,-21.8627722,C,C3ad,3,10
-"duffy, 2026",Tantabiddi,-21.9006151,C,C3ad,0,10
-"duffy, 2026",Mangrove,-21.9664525,C,C3ad,1,10
-"duffy, 2026",Lakeside,-22.0366049,C,C3ad,4,10
-"duffy, 2026",Pilgonaman,-22.1411171,C,C3ad,4,10
-"duffy, 2026",Yardie Creek,-22.2595001,C,C3ad,5,10
-"duffy, 2026",South Yardie,-22.3863358,C,C3ad,5,10
-"duffy, 2026",Point Cloates,-22.7100516,C,C3ad,9,10
-"duffy, 2026",North Reef,-22.9866855,C,C3ad,3,10
-"duffy, 2026",South Coral Bay,-23.2727011,C,C3ad,6,10
-"duffy, 2026",Gnaraloo Bay,-23.7629651,C,C3ad,6,10
-"duffy, 2026",North Muiron,-21.6509387,C,C3fk,0,10
-"duffy, 2026",South Muiron,-21.6887216,C,C3fk,1,10
-"duffy, 2026",North Bundegi,-21.8330332,C,C3fk,0,10
-"duffy, 2026",South Bundegi,-21.8627722,C,C3fk,3,10
-"duffy, 2026",Tantabiddi,-21.9006151,C,C3fk,0,10
-"duffy, 2026",Mangrove,-21.9664525,C,C3fk,1,10
-"duffy, 2026",Lakeside,-22.0366049,C,C3fk,4,10
-"duffy, 2026",Pilgonaman,-22.1411171,C,C3fk,4,10
-"duffy, 2026",Yardie Creek,-22.2595001,C,C3fk,5,10
-"duffy, 2026",South Yardie,-22.3863358,C,C3fk,5,10
-"duffy, 2026",Point Cloates,-22.7100516,C,C3fk,9,10
-"duffy, 2026",North Reef,-22.9866855,C,C3fk,3,10
-"duffy, 2026",South Coral Bay,-23.2727011,C,C3fk,6,10
-"duffy, 2026",Gnaraloo Bay,-23.7629651,C,C3fk,6,10
-"duffy, 2026",North Muiron,-21.6509387,C,C3gj,0,10
-"duffy, 2026",South Muiron,-21.6887216,C,C3gj,0,10
-"duffy, 2026",North Bundegi,-21.8330332,C,C3gj,0,10
-"duffy, 2026",South Bundegi,-21.8627722,C,C3gj,3,10
-"duffy, 2026",Tantabiddi,-21.9006151,C,C3gj,0,10
-"duffy, 2026",Mangrove,-21.9664525,C,C3gj,0,10
-"duffy, 2026",Lakeside,-22.0366049,C,C3gj,1,10
-"duffy, 2026",Pilgonaman,-22.1411171,C,C3gj,3,10
-"duffy, 2026",Yardie Creek,-22.2595001,C,C3gj,0,10
-"duffy, 2026",South Yardie,-22.3863358,C,C3gj,0,10
-"duffy, 2026",Point Cloates,-22.7100516,C,C3gj,3,10
-"duffy, 2026",North Reef,-22.9866855,C,C3gj,2,10
-"duffy, 2026",South Coral Bay,-23.2727011,C,C3gj,1,10
-"duffy, 2026",Gnaraloo Bay,-23.7629651,C,C3gj,3,10
-"duffy, 2026",North Muiron,-21.6509387,C,C3nf,0,10
-"duffy, 2026",South Muiron,-21.6887216,C,C3nf,0,10
-"duffy, 2026",North Bundegi,-21.8330332,C,C3nf,0,10
-"duffy, 2026",South Bundegi,-21.8627722,C,C3nf,3,10
-"duffy, 2026",Tantabiddi,-21.9006151,C,C3nf,0,10
-"duffy, 2026",Mangrove,-21.9664525,C,C3nf,3,10
-"duffy, 2026",Lakeside,-22.0366049,C,C3nf,6,10
-"duffy, 2026",Pilgonaman,-22.1411171,C,C3nf,7,10
-"duffy, 2026",Yardie Creek,-22.2595001,C,C3nf,8,10
-"duffy, 2026",South Yardie,-22.3863358,C,C3nf,5,10
-"duffy, 2026",Point Cloates,-22.7100516,C,C3nf,9,10
-"duffy, 2026",North Reef,-22.9866855,C,C3nf,3,10
-"duffy, 2026",South Coral Bay,-23.2727011,C,C3nf,5,10
-"duffy, 2026",Gnaraloo Bay,-23.7629651,C,C3nf,7,10
-"duffy, 2026",North Muiron,-21.6509387,C,C3gl,0,10
-"duffy, 2026",South Muiron,-21.6887216,C,C3gl,0,10
-"duffy, 2026",North Bundegi,-21.8330332,C,C3gl,0,10
-"duffy, 2026",South Bundegi,-21.8627722,C,C3gl,3,10
-"duffy, 2026",Tantabiddi,-21.9006151,C,C3gl,0,10
-"duffy, 2026",Mangrove,-21.9664525,C,C3gl,3,10
-"duffy, 2026",Lakeside,-22.0366049,C,C3gl,6,10
-"duffy, 2026",Pilgonaman,-22.1411171,C,C3gl,8,10
-"duffy, 2026",Yardie Creek,-22.2595001,C,C3gl,4,10
-"duffy, 2026",South Yardie,-22.3863358,C,C3gl,4,10
-"duffy, 2026",Point Cloates,-22.7100516,C,C3gl,7,10
-"duffy, 2026",North Reef,-22.9866855,C,C3gl,4,10
-"duffy, 2026",South Coral Bay,-23.2727011,C,C3gl,3,10
-"duffy, 2026",Gnaraloo Bay,-23.7629651,C,C3gl,4,10
-"duffy, 2026",North Muiron,-21.6509387,C,C3nc,0,10
-"duffy, 2026",South Muiron,-21.6887216,C,C3nc,0,10
-"duffy, 2026",North Bundegi,-21.8330332,C,C3nc,0,10
-"duffy, 2026",South Bundegi,-21.8627722,C,C3nc,2,10
-"duffy, 2026",Tantabiddi,-21.9006151,C,C3nc,0,10
-"duffy, 2026",Mangrove,-21.9664525,C,C3nc,0,10
-"duffy, 2026",Lakeside,-22.0366049,C,C3nc,2,10
-"duffy, 2026",Pilgonaman,-22.1411171,C,C3nc,2,10
-"duffy, 2026",Yardie Creek,-22.2595001,C,C3nc,4,10
-"duffy, 2026",South Yardie,-22.3863358,C,C3nc,3,10
-"duffy, 2026",Point Cloates,-22.7100516,C,C3nc,4,10
-"duffy, 2026",North Reef,-22.9866855,C,C3nc,1,10
-"duffy, 2026",South Coral Bay,-23.2727011,C,C3nc,0,10
-"duffy, 2026",Gnaraloo Bay,-23.7629651,C,C3nc,1,10
-"duffy, 2026",North Muiron,-21.6509387,C,C1,0,10
-"duffy, 2026",South Muiron,-21.6887216,C,C1,2,10
-"duffy, 2026",North Bundegi,-21.8330332,C,C1,1,10
-"duffy, 2026",South Bundegi,-21.8627722,C,C1,4,10
-"duffy, 2026",Tantabiddi,-21.9006151,C,C1,2,10
-"duffy, 2026",Mangrove,-21.9664525,C,C1,5,10
-"duffy, 2026",Lakeside,-22.0366049,C,C1,6,10
-"duffy, 2026",Pilgonaman,-22.1411171,C,C1,5,10
-"duffy, 2026",Yardie Creek,-22.2595001,C,C1,5,10
-"duffy, 2026",South Yardie,-22.3863358,C,C1,5,10
-"duffy, 2026",Point Cloates,-22.7100516,C,C1,10,10
-"duffy, 2026",North Reef,-22.9866855,C,C1,4,10
-"duffy, 2026",South Coral Bay,-23.2727011,C,C1,5,10
-"duffy, 2026",Gnaraloo Bay,-23.7629651,C,C1,7,10
-"duffy, 2026",North Muiron,-21.6509387,C,C40,4,10
-"duffy, 2026",South Muiron,-21.6887216,C,C40,4,10
-"duffy, 2026",North Bundegi,-21.8330332,C,C40,1,10
-"duffy, 2026",South Bundegi,-21.8627722,C,C40,3,10
-"duffy, 2026",Tantabiddi,-21.9006151,C,C40,2,10
-"duffy, 2026",Mangrove,-21.9664525,C,C40,3,10
-"duffy, 2026",Lakeside,-22.0366049,C,C40,2,10
-"duffy, 2026",Pilgonaman,-22.1411171,C,C40,0,10
-"duffy, 2026",Yardie Creek,-22.2595001,C,C40,0,10
-"duffy, 2026",South Yardie,-22.3863358,C,C40,0,10
-"duffy, 2026",Point Cloates,-22.7100516,C,C40,0,10
-"duffy, 2026",North Reef,-22.9866855,C,C40,0,10
-"duffy, 2026",South Coral Bay,-23.2727011,C,C40,0,10
-"duffy, 2026",Gnaraloo Bay,-23.7629651,C,C40,0,10
-"duffy, 2026",North Muiron,-21.6509387,C,C50a,0,10
-"duffy, 2026",South Muiron,-21.6887216,C,C50a,0,10
-"duffy, 2026",North Bundegi,-21.8330332,C,C50a,0,10
-"duffy, 2026",South Bundegi,-21.8627722,C,C50a,3,10
-"duffy, 2026",Tantabiddi,-21.9006151,C,C50a,0,10
-"duffy, 2026",Mangrove,-21.9664525,C,C50a,3,10
-"duffy, 2026",Lakeside,-22.0366049,C,C50a,5,10
-"duffy, 2026",Pilgonaman,-22.1411171,C,C50a,4,10
-"duffy, 2026",Yardie Creek,-22.2595001,C,C50a,3,10
-"duffy, 2026",South Yardie,-22.3863358,C,C50a,4,10
-"duffy, 2026",Point Cloates,-22.7100516,C,C50a,4,10
-"duffy, 2026",North Reef,-22.9866855,C,C50a,3,10
-"duffy, 2026",South Coral Bay,-23.2727011,C,C50a,5,10
-"duffy, 2026",Gnaraloo Bay,-23.7629651,C,C50a,9,10
-"gilmour, 2016",Scott Reef,-14.0667,C,C40a,52,52
+﻿ref,site,lat,lon,clade,haplotype,obs,n
+"zweifler, 2024",Balla Balla,-20.6375,117.6616667,C,C1m,8,9
+"zweifler, 2024",Balla Balla,-20.6375,117.6616667,C,C.b,8,9
+"zweifler, 2024",Balla Balla,-20.6375,117.6616667,C,C.a,8,9
+"zweifler, 2024",Balla Balla,-20.6375,117.6616667,C,C33.1d,9,9
+"zweifler, 2024",Balla Balla,-20.6375,117.6616667,C,C33.1c,9,9
+"zweifler, 2024",Balla Balla,-20.6375,117.6616667,C,C33.1b,9,9
+"zweifler, 2024",Balla Balla,-20.6375,117.6616667,C,C33.1a,9,9
+"zweifler, 2024",Dampier,-20.5367,116.7769,C,C1m,9,9
+"zweifler, 2024",Dampier,-20.5367,116.7769,C,C.b,9,9
+"zweifler, 2024",Dampier,-20.5367,116.7769,C,C.a,9,9
+"zweifler, 2024",Dampier,-20.5367,116.7769,C,C33.1d,9,9
+"zweifler, 2024",Dampier,-20.5367,116.7769,C,C33.1c,9,9
+"zweifler, 2024",Dampier,-20.5367,116.7769,C,C33.1b,9,9
+"zweifler, 2024",Dampier,-20.5367,116.7769,C,C33.1a,9,9
+"zweifler, 2024",Dampier,-20.5367,116.7769,D,D1a,1,9
+"zweifler, 2024",Montebello,-20.5211,115.5442,C,C1m,10,12
+"zweifler, 2024",Montebello,-20.5211,115.5442,C,C.b,9,12
+"zweifler, 2024",Montebello,-20.5211,115.5442,C,C.a,9,12
+"zweifler, 2024",Montebello,-20.5211,115.5442,C,C33.1e,3,12
+"zweifler, 2024",Montebello,-20.5211,115.5442,C,C33.1d,10,12
+"zweifler, 2024",Montebello,-20.5211,115.5442,C,C33.1c,10,12
+"zweifler, 2024",Montebello,-20.5211,115.5442,C,C33.1b,9,12
+"zweifler, 2024",Montebello,-20.5211,115.5442,C,C33.1a,9,12
+"zweifler, 2024",Montebello,-20.5211,115.5442,C,C.e,1,12
+"zweifler, 2024",Exmouth Gulf,-22.2947,114.1497,C,C1m,10,11
+"zweifler, 2024",Exmouth Gulf,-22.2947,114.1497,C,C.b,11,11
+"zweifler, 2024",Exmouth Gulf,-22.2947,114.1497,C,C.a,10,11
+"zweifler, 2024",Exmouth Gulf,-22.2947,114.1497,C,C33.1e,2,11
+"zweifler, 2024",Exmouth Gulf,-22.2947,114.1497,C,C33.1d,10,11
+"zweifler, 2024",Exmouth Gulf,-22.2947,114.1497,C,C33.1c,10,11
+"zweifler, 2024",Exmouth Gulf,-22.2947,114.1497,C,C33.1b,9,11
+"zweifler, 2024",Exmouth Gulf,-22.2947,114.1497,C,C33.1a,10,11
+"zweifler, 2024",Exmouth Gulf,-22.2947,114.1497,C,C.e,1,11
+"zweifler, 2024",Exmouth Gulf,-22.2947,114.1497,C,C.d,1,11
+"zweifler, 2024",Exmouth Gulf,-22.2947,114.1497,A,A.a,1,11
+"zweifler, 2024",Shark Bay,-25.8514,113.3478,C,C1m,4,5
+"zweifler, 2024",Shark Bay,-25.8514,113.3478,C,C.b,4,5
+"zweifler, 2024",Shark Bay,-25.8514,113.3478,C,C.a,4,5
+"zweifler, 2024",Shark Bay,-25.8514,113.3478,C,C33.1d,4,5
+"zweifler, 2024",Shark Bay,-25.8514,113.3478,C,C33.1c,4,5
+"zweifler, 2024",Shark Bay,-25.8514,113.3478,C,C.e,1,5
+"zweifler, 2024",Perth,-31.6925,115.6494,C,C1m,8,9
+"zweifler, 2024",Perth,-31.6925,115.6494,C,C.b,7,9
+"zweifler, 2024",Perth,-31.6925,115.6494,C,C.a,4,9
+"zweifler, 2024",Perth,-31.6925,115.6494,C,C33.1e,1,9
+"zweifler, 2024",Perth,-31.6925,115.6494,C,C33.1d,6,9
+"zweifler, 2024",Perth,-31.6925,115.6494,C,C33.1c,7,9
+"zweifler, 2024",Perth,-31.6925,115.6494,C,C33.1b,4,9
+"zweifler, 2024",Perth,-31.6925,115.6494,C,C33.1a,5,9
+"zweifler, 2024",Perth,-31.6925,115.6494,C,C.e ,2,9
+"zweifler, 2024",Perth,-31.6925,115.6494,C,C.d,2,9
+"zweifler, 2024",Perth,-31.6925,115.6494,F,F,1,9
+"zweifler, 2024",Perth,-31.6925,115.6494,C,C7,2,9
+"zweifler, 2024",Perth,-31.6925,115.6494,B,B18,1,9
+"zweifler, 2024",Perth,-31.6925,115.6494,C,C.c,1,9
+"silverstein, 2011",Dampier,-20.5333,116.6333,C,C3ii,1,27
+"silverstein, 2011",Dampier,-20.5333,116.6333,C,C40,3,27
+"silverstein, 2011",Dampier,-20.5333,116.6333,D,D1a,14,27
+"silverstein, 2011",Dampier,-20.5333,116.6333,C,C1c,1,27
+"silverstein, 2011",Dampier,-20.5333,116.6333,C,C1h,9,27
+"silverstein, 2011",Ningaloo,-23.1333,113.7667,C,C40,19,61
+"silverstein, 2011",Ningaloo,-23.1333,113.7667,C,C21,1,61
+"silverstein, 2011",Ningaloo,-23.1333,113.7667,C,C1,16,61
+"silverstein, 2011",Ningaloo,-23.1333,113.7667,D,D1a,3,61
+"silverstein, 2011",Ningaloo,-23.1333,113.7667,C,C1h,16,61
+"silverstein, 2011",Ningaloo,-23.1333,113.7667,C,C123,7,61
+"silverstein, 2011",Ningaloo,-23.1333,113.7667,C,C130,1,61
+"silverstein, 2011",Ningaloo,-23.1333,113.7667,C,C3jj,1,61
+"silverstein, 2011",Abrolhos,-28.2667,113.5833,C,C1,5,23
+"silverstein, 2011",Abrolhos,-28.2667,113.5833,C,C129,2,23
+"silverstein, 2011",Abrolhos,-28.2667,113.5833,C,C1gg-hh,6,23
+"silverstein, 2011",Abrolhos,-28.2667,113.5833,C,C1gg,3,23
+"silverstein, 2011",Abrolhos,-28.2667,113.5833,C,C125,2,23
+"silverstein, 2011",Abrolhos,-28.2667,113.5833,C,C126,5,23
+"silverstein, 2011",Rottnest,-31.9965,115.5167,B,B40,9,45
+"silverstein, 2011",Rottnest,-31.9965,115.5167,C,C1gg,13,45
+"silverstein, 2011",Rottnest,-31.9965,115.5167,C,C124,4,45
+"silverstein, 2011",Rottnest,-31.9965,115.5167,C,C128,2,45
+"silverstein, 2011",Rottnest,-31.9965,115.5167,B,B18,2,45
+"silverstein, 2011",Rottnest,-31.9965,115.5167,C,C1c-ff,11,45
+"silverstein, 2011",Dunsborough,-33.6,115.0833,C,C7d,3,18
+"silverstein, 2011",Dunsborough,-33.6,115.0833,B,B18,6,18
+"silverstein, 2011",Dunsborough,-33.6,115.0833,C,C1ii,4,18
+"silverstein, 2011",Dunsborough,-33.6,115.0833,C,C7,3,18
+"silverstein, 2011",Dunsborough,-33.6,115.0833,C,C127,2,18
+"crabbe, 2009",Coral Bay,-23.1397,113.7521,A,NA,1,46
+"crabbe, 2009",Coral Bay,-23.1397,113.7521,B,NA,32,46
+"crabbe, 2009",Coral Bay,-23.1397,113.7521,C,NA,45,46
+"crabbe, 2009",Coral Bay,-23.1397,113.7521,B,NA,7,12
+"crabbe, 2009",Coral Bay,-23.1397,113.7521,C,NA,12,12
+"crabbe, 2009",Coral Bay,-23.1397,113.7521,B,NA,10,26
+"crabbe, 2009",Coral Bay,-23.1397,113.7521,C,NA,26,26
+"crabbe, 2009",Coral Bay,-23.1397,113.7521,B,NA,13,27
+"crabbe, 2009",Coral Bay,-23.1397,113.7521,C,NA,27,27
+"crabbe, 2009",Coral Bay,-23.1397,113.7521,D,NA,1,27
+"thomas, 2014",Abrolhos,-28.437,113.6747,C,NA,35,35
+"thomas, 2014",Abrolhos,-28.437,113.6747,G,NA,3,35
+"thomas, 2014",Kimberley,-13.95,125.7539,C,NA,35,35
+"thomas, 2014",Kimberley,-13.95,125.7539,D,NA,4,35
+"zhang, 2022",Ashmore,-12.2273891,123.0278,C,C40c,20,20
+"zhang, 2022",Ashmore,-12.2273891,123.0278,C,C72d,19,20
+"zhang, 2022",Ashmore,-12.2273891,123.0278,C,C40,19,20
+"zhang, 2022",Ashmore,-12.2273891,123.0278,C,C40e,18,20
+"zhang, 2022",Adele Island,-15.5647154,123.1685,C,C40c,29,29
+"zhang, 2022",Adele Island,-15.5647154,123.1685,C,C72d,29,29
+"zhang, 2022",Adele Island,-15.5647154,123.1685,C,C40,28,29
+"zhang, 2022",Adele Island,-15.5647154,123.1685,C,C40e,26,29
+"zhang, 2022",Rowley Shoals,-17.3147709,119.3175,C,C40c,19,22
+"zhang, 2022",Rowley Shoals,-17.3147709,119.3175,C,C72d,16,22
+"zhang, 2022",Rowley Shoals,-17.3147709,119.3175,C,C40,13,22
+"zhang, 2022",Rowley Shoals,-17.3147709,119.3175,C,C40e,13,22
+"zhang, 2022",Rowley Shoals,-17.3147709,119.3175,C,C3y,1,22
+"zhang, 2022",Rowley Shoals,-17.3147709,119.3175,C,C3dl,1,22
+"duffy, 2026",North Muiron,-21.6509387,114.3744,C,C21,10,10
+"duffy, 2026",South Muiron,-21.6887216,114.3307,C,C21,10,10
+"duffy, 2026",North Bundegi,-21.8330332,114.1782,C,C21,10,10
+"duffy, 2026",South Bundegi,-21.8627722,114.1620,C,C21,9,10
+"duffy, 2026",Tantabiddi,-21.9006151,113.9558,C,C21,10,10
+"duffy, 2026",Mangrove,-21.9664525,113.9172,C,C21,10,10
+"duffy, 2026",Lakeside,-22.0366049,113.8999,C,C21,10,10
+"duffy, 2026",Pilgonaman,-22.1411171,113.8678,C,C21,10,10
+"duffy, 2026",Yardie Creek,-22.2595001,113.8211,C,C21,10,10
+"duffy, 2026",South Yardie,-22.3863358,113.7484,C,C21,10,10
+"duffy, 2026",Point Cloates,-22.7100516,113.6574,C,C21,10,10
+"duffy, 2026",North Reef,-22.9866855,113.7726,C,C21,10,10
+"duffy, 2026",South Coral Bay,-23.2727011,113.7776,C,C21,10,10
+"duffy, 2026",Gnaraloo Bay,-23.7629651,113.5426,C,C21,10,10
+"duffy, 2026",North Muiron,-21.6509387,114.3744,C,C3,10,10
+"duffy, 2026",South Muiron,-21.6887216,114.3307,C,C3,10,10
+"duffy, 2026",North Bundegi,-21.8330332,114.1782,C,C3,10,10
+"duffy, 2026",South Bundegi,-21.8627722,114.1620,C,C3,10,10
+"duffy, 2026",Tantabiddi,-21.9006151,113.9558,C,C3,10,10
+"duffy, 2026",Mangrove,-21.9664525,113.9172,C,C3,10,10
+"duffy, 2026",Lakeside,-22.0366049,113.8999,C,C3,10,10
+"duffy, 2026",Pilgonaman,-22.1411171,113.8678,C,C3,10,10
+"duffy, 2026",Yardie Creek,-22.2595001,113.8211,C,C3,10,10
+"duffy, 2026",South Yardie,-22.3863358,113.7484,C,C3,10,10
+"duffy, 2026",Point Cloates,-22.7100516,113.6574,C,C3,10,10
+"duffy, 2026",North Reef,-22.9866855,113.7726,C,C3,10,10
+"duffy, 2026",South Coral Bay,-23.2727011,113.7776,C,C3,10,10
+"duffy, 2026",Gnaraloo Bay,-23.7629651,113.5426,C,C3,10,10
+"duffy, 2026",North Muiron,-21.6509387,114.3744,C,C21am,10,10
+"duffy, 2026",South Muiron,-21.6887216,114.3307,C,C21am,10,10
+"duffy, 2026",North Bundegi,-21.8330332,114.1782,C,C21am,10,10
+"duffy, 2026",South Bundegi,-21.8627722,114.1620,C,C21am,6,10
+"duffy, 2026",Tantabiddi,-21.9006151,113.9558,C,C21am,10,10
+"duffy, 2026",Mangrove,-21.9664525,113.9172,C,C21am,10,10
+"duffy, 2026",Lakeside,-22.0366049,113.8999,C,C21am,10,10
+"duffy, 2026",Pilgonaman,-22.1411171,113.8678,C,C21am,9,10
+"duffy, 2026",Yardie Creek,-22.2595001,113.8211,C,C21am,8,10
+"duffy, 2026",South Yardie,-22.3863358,113.7484,C,C21am,7,10
+"duffy, 2026",Point Cloates,-22.7100516,113.6574,C,C21am,7,10
+"duffy, 2026",North Reef,-22.9866855,113.7726,C,C21am,9,10
+"duffy, 2026",South Coral Bay,-23.2727011,113.7776,C,C21am,8,10
+"duffy, 2026",Gnaraloo Bay,-23.7629651,113.5426,C,C21am,8,10
+"duffy, 2026",North Muiron,-21.6509387,114.3744,C,C21fl,10,10
+"duffy, 2026",South Muiron,-21.6887216,114.3307,C,C21fl,10,10
+"duffy, 2026",North Bundegi,-21.8330332,114.1782,C,C21fl,10,10
+"duffy, 2026",South Bundegi,-21.8627722,114.1620,C,C21fl,6,10
+"duffy, 2026",Tantabiddi,-21.9006151,113.9558,C,C21fl,10,10
+"duffy, 2026",Mangrove,-21.9664525,113.9172,C,C21fl,10,10
+"duffy, 2026",Lakeside,-22.0366049,113.8999,C,C21fl,8,10
+"duffy, 2026",Pilgonaman,-22.1411171,113.8678,C,C21fl,8,10
+"duffy, 2026",Yardie Creek,-22.2595001,113.8211,C,C21fl,7,10
+"duffy, 2026",South Yardie,-22.3863358,113.7484,C,C21fl,7,10
+"duffy, 2026",Point Cloates,-22.7100516,113.6574,C,C21fl,7,10
+"duffy, 2026",North Reef,-22.9866855,113.7726,C,C21fl,8,10
+"duffy, 2026",South Coral Bay,-23.2727011,113.7776,C,C21fl,7,10
+"duffy, 2026",Gnaraloo Bay,-23.7629651,113.5426,C,C21fl,7,10
+"duffy, 2026",North Muiron,-21.6509387,114.3744,C,C21fm,10,10
+"duffy, 2026",South Muiron,-21.6887216,114.3307,C,C21fm,10,10
+"duffy, 2026",North Bundegi,-21.8330332,114.1782,C,C21fm,10,10
+"duffy, 2026",South Bundegi,-21.8627722,114.1620,C,C21fm,5,10
+"duffy, 2026",Tantabiddi,-21.9006151,113.9558,C,C21fm,10,10
+"duffy, 2026",Mangrove,-21.9664525,113.9172,C,C21fm,10,10
+"duffy, 2026",Lakeside,-22.0366049,113.8999,C,C21fm,8,10
+"duffy, 2026",Pilgonaman,-22.1411171,113.8678,C,C21fm,7,10
+"duffy, 2026",Yardie Creek,-22.2595001,113.8211,C,C21fm,7,10
+"duffy, 2026",South Yardie,-22.3863358,113.7484,C,C21fm,7,10
+"duffy, 2026",Point Cloates,-22.7100516,113.6574,C,C21fm,6,10
+"duffy, 2026",North Reef,-22.9866855,113.7726,C,C21fm,6,10
+"duffy, 2026",South Coral Bay,-23.2727011,113.7776,C,C21fm,7,10
+"duffy, 2026",Gnaraloo Bay,-23.7629651,113.5426,C,C21fm,6,10
+"duffy, 2026",North Muiron,-21.6509387,114.3744,C,C21bo,10,10
+"duffy, 2026",South Muiron,-21.6887216,114.3307,C,C21bo,10,10
+"duffy, 2026",North Bundegi,-21.8330332,114.1782,C,C21bo,10,10
+"duffy, 2026",South Bundegi,-21.8627722,114.1620,C,C21bo,6,10
+"duffy, 2026",Tantabiddi,-21.9006151,113.9558,C,C21bo,10,10
+"duffy, 2026",Mangrove,-21.9664525,113.9172,C,C21bo,10,10
+"duffy, 2026",Lakeside,-22.0366049,113.8999,C,C21bo,8,10
+"duffy, 2026",Pilgonaman,-22.1411171,113.8678,C,C21bo,6,10
+"duffy, 2026",Yardie Creek,-22.2595001,113.8211,C,C21bo,7,10
+"duffy, 2026",South Yardie,-22.3863358,113.7484,C,C21bo,7,10
+"duffy, 2026",Point Cloates,-22.7100516,113.6574,C,C21bo,7,10
+"duffy, 2026",North Reef,-22.9866855,113.7726,C,C21bo,8,10
+"duffy, 2026",South Coral Bay,-23.2727011,113.7776,C,C21bo,7,10
+"duffy, 2026",Gnaraloo Bay,-23.7629651,113.5426,C,C21bo,7,10
+"duffy, 2026",North Muiron,-21.6509387,114.3744,C,C21.12,0,10
+"duffy, 2026",South Muiron,-21.6887216,114.3307,C,C21.12,1,10
+"duffy, 2026",North Bundegi,-21.8330332,114.1782,C,C21.12,0,10
+"duffy, 2026",South Bundegi,-21.8627722,114.1620,C,C21.12,2,10
+"duffy, 2026",Tantabiddi,-21.9006151,113.9558,C,C21.12,0,10
+"duffy, 2026",Mangrove,-21.9664525,113.9172,C,C21.12,3,10
+"duffy, 2026",Lakeside,-22.0366049,113.8999,C,C21.12,6,10
+"duffy, 2026",Pilgonaman,-22.1411171,113.8678,C,C21.12,7,10
+"duffy, 2026",Yardie Creek,-22.2595001,113.8211,C,C21.12,7,10
+"duffy, 2026",South Yardie,-22.3863358,113.7484,C,C21.12,5,10
+"duffy, 2026",Point Cloates,-22.7100516,113.6574,C,C21.12,10,10
+"duffy, 2026",North Reef,-22.9866855,113.7726,C,C21.12,5,10
+"duffy, 2026",South Coral Bay,-23.2727011,113.7776,C,C21.12,6,10
+"duffy, 2026",Gnaraloo Bay,-23.7629651,113.5426,C,C21.12,7,10
+"duffy, 2026",North Muiron,-21.6509387,114.3744,C,C3b,1,10
+"duffy, 2026",South Muiron,-21.6887216,114.3307,C,C3b,6,10
+"duffy, 2026",North Bundegi,-21.8330332,114.1782,C,C3b,4,10
+"duffy, 2026",South Bundegi,-21.8627722,114.1620,C,C3b,5,10
+"duffy, 2026",Tantabiddi,-21.9006151,113.9558,C,C3b,4,10
+"duffy, 2026",Mangrove,-21.9664525,113.9172,C,C3b,9,10
+"duffy, 2026",Lakeside,-22.0366049,113.8999,C,C3b,8,10
+"duffy, 2026",Pilgonaman,-22.1411171,113.8678,C,C3b,10,10
+"duffy, 2026",Yardie Creek,-22.2595001,113.8211,C,C3b,8,10
+"duffy, 2026",South Yardie,-22.3863358,113.7484,C,C3b,9,10
+"duffy, 2026",Point Cloates,-22.7100516,113.6574,C,C3b,10,10
+"duffy, 2026",North Reef,-22.9866855,113.7726,C,C3b,6,10
+"duffy, 2026",South Coral Bay,-23.2727011,113.7776,C,C3b,8,10
+"duffy, 2026",Gnaraloo Bay,-23.7629651,113.5426,C,C3b,10,10
+"duffy, 2026",North Muiron,-21.6509387,114.3744,C,C3au,0,10
+"duffy, 2026",South Muiron,-21.6887216,114.3307,C,C3au,0,10
+"duffy, 2026",North Bundegi,-21.8330332,114.1782,C,C3au,0,10
+"duffy, 2026",South Bundegi,-21.8627722,114.1620,C,C3au,3,10
+"duffy, 2026",Tantabiddi,-21.9006151,113.9558,C,C3au,0,10
+"duffy, 2026",Mangrove,-21.9664525,113.9172,C,C3au,0,10
+"duffy, 2026",Lakeside,-22.0366049,113.8999,C,C3au,4,10
+"duffy, 2026",Pilgonaman,-22.1411171,113.8678,C,C3au,5,10
+"duffy, 2026",Yardie Creek,-22.2595001,113.8211,C,C3au,5,10
+"duffy, 2026",South Yardie,-22.3863358,113.7484,C,C3au,5,10
+"duffy, 2026",Point Cloates,-22.7100516,113.6574,C,C3au,8,10
+"duffy, 2026",North Reef,-22.9866855,113.7726,C,C3au,5,10
+"duffy, 2026",South Coral Bay,-23.2727011,113.7776,C,C3au,5,10
+"duffy, 2026",Gnaraloo Bay,-23.7629651,113.5426,C,C3au,6,10
+"duffy, 2026",North Muiron,-21.6509387,114.3744,C,C3aag,0,10
+"duffy, 2026",South Muiron,-21.6887216,114.3307,C,C3aag,1,10
+"duffy, 2026",North Bundegi,-21.8330332,114.1782,C,C3aag,0,10
+"duffy, 2026",South Bundegi,-21.8627722,114.1620,C,C3aag,2,10
+"duffy, 2026",Tantabiddi,-21.9006151,113.9558,C,C3aag,1,10
+"duffy, 2026",Mangrove,-21.9664525,113.9172,C,C3aag,2,10
+"duffy, 2026",Lakeside,-22.0366049,113.8999,C,C3aag,5,10
+"duffy, 2026",Pilgonaman,-22.1411171,113.8678,C,C3aag,6,10
+"duffy, 2026",Yardie Creek,-22.2595001,113.8211,C,C3aag,7,10
+"duffy, 2026",South Yardie,-22.3863358,113.7484,C,C3aag,5,10
+"duffy, 2026",Point Cloates,-22.7100516,113.6574,C,C3aag,9,10
+"duffy, 2026",North Reef,-22.9866855,113.7726,C,C3aag,5,10
+"duffy, 2026",South Coral Bay,-23.2727011,113.7776,C,C3aag,6,10
+"duffy, 2026",Gnaraloo Bay,-23.7629651,113.5426,C,C3aag,8,10
+"duffy, 2026",North Muiron,-21.6509387,114.3744,C,C39ab,0,10
+"duffy, 2026",South Muiron,-21.6887216,114.3307,C,C39ab,0,10
+"duffy, 2026",North Bundegi,-21.8330332,114.1782,C,C39ab,0,10
+"duffy, 2026",South Bundegi,-21.8627722,114.1620,C,C39ab,2,10
+"duffy, 2026",Tantabiddi,-21.9006151,113.9558,C,C39ab,0,10
+"duffy, 2026",Mangrove,-21.9664525,113.9172,C,C39ab,1,10
+"duffy, 2026",Lakeside,-22.0366049,113.8999,C,C39ab,3,10
+"duffy, 2026",Pilgonaman,-22.1411171,113.8678,C,C39ab,4,10
+"duffy, 2026",Yardie Creek,-22.2595001,113.8211,C,C39ab,4,10
+"duffy, 2026",South Yardie,-22.3863358,113.7484,C,C39ab,4,10
+"duffy, 2026",Point Cloates,-22.7100516,113.6574,C,C39ab,9,10
+"duffy, 2026",North Reef,-22.9866855,113.7726,C,C39ab,3,10
+"duffy, 2026",South Coral Bay,-23.2727011,113.7776,C,C39ab,4,10
+"duffy, 2026",Gnaraloo Bay,-23.7629651,113.5426,C,C39ab,5,10
+"duffy, 2026",North Muiron,-21.6509387,114.3744,C,C3fj,0,10
+"duffy, 2026",South Muiron,-21.6887216,114.3307,C,C3fj,1,10
+"duffy, 2026",North Bundegi,-21.8330332,114.1782,C,C3fj,0,10
+"duffy, 2026",South Bundegi,-21.8627722,114.1620,C,C3fj,3,10
+"duffy, 2026",Tantabiddi,-21.9006151,113.9558,C,C3fj,0,10
+"duffy, 2026",Mangrove,-21.9664525,113.9172,C,C3fj,3,10
+"duffy, 2026",Lakeside,-22.0366049,113.8999,C,C3fj,5,10
+"duffy, 2026",Pilgonaman,-22.1411171,113.8678,C,C3fj,6,10
+"duffy, 2026",Yardie Creek,-22.2595001,113.8211,C,C3fj,5,10
+"duffy, 2026",South Yardie,-22.3863358,113.7484,C,C3fj,5,10
+"duffy, 2026",Point Cloates,-22.7100516,113.6574,C,C3fj,9,10
+"duffy, 2026",North Reef,-22.9866855,113.7726,C,C3fj,4,10
+"duffy, 2026",South Coral Bay,-23.2727011,113.7776,C,C3fj,7,10
+"duffy, 2026",Gnaraloo Bay,-23.7629651,113.5426,C,C3fj,8,10
+"duffy, 2026",North Muiron,-21.6509387,114.3744,C,C3ad,0,10
+"duffy, 2026",South Muiron,-21.6887216,114.3307,C,C3ad,1,10
+"duffy, 2026",North Bundegi,-21.8330332,114.1782,C,C3ad,0,10
+"duffy, 2026",South Bundegi,-21.8627722,114.1620,C,C3ad,3,10
+"duffy, 2026",Tantabiddi,-21.9006151,113.9558,C,C3ad,0,10
+"duffy, 2026",Mangrove,-21.9664525,113.9172,C,C3ad,1,10
+"duffy, 2026",Lakeside,-22.0366049,113.8999,C,C3ad,4,10
+"duffy, 2026",Pilgonaman,-22.1411171,113.8678,C,C3ad,4,10
+"duffy, 2026",Yardie Creek,-22.2595001,113.8211,C,C3ad,5,10
+"duffy, 2026",South Yardie,-22.3863358,113.7484,C,C3ad,5,10
+"duffy, 2026",Point Cloates,-22.7100516,113.6574,C,C3ad,9,10
+"duffy, 2026",North Reef,-22.9866855,113.7726,C,C3ad,3,10
+"duffy, 2026",South Coral Bay,-23.2727011,113.7776,C,C3ad,6,10
+"duffy, 2026",Gnaraloo Bay,-23.7629651,113.5426,C,C3ad,6,10
+"duffy, 2026",North Muiron,-21.6509387,114.3744,C,C3fk,0,10
+"duffy, 2026",South Muiron,-21.6887216,114.3307,C,C3fk,1,10
+"duffy, 2026",North Bundegi,-21.8330332,114.1782,C,C3fk,0,10
+"duffy, 2026",South Bundegi,-21.8627722,114.1620,C,C3fk,3,10
+"duffy, 2026",Tantabiddi,-21.9006151,113.9558,C,C3fk,0,10
+"duffy, 2026",Mangrove,-21.9664525,113.9172,C,C3fk,1,10
+"duffy, 2026",Lakeside,-22.0366049,113.8999,C,C3fk,4,10
+"duffy, 2026",Pilgonaman,-22.1411171,113.8678,C,C3fk,4,10
+"duffy, 2026",Yardie Creek,-22.2595001,113.8211,C,C3fk,5,10
+"duffy, 2026",South Yardie,-22.3863358,113.7484,C,C3fk,5,10
+"duffy, 2026",Point Cloates,-22.7100516,113.6574,C,C3fk,9,10
+"duffy, 2026",North Reef,-22.9866855,113.7726,C,C3fk,3,10
+"duffy, 2026",South Coral Bay,-23.2727011,113.7776,C,C3fk,6,10
+"duffy, 2026",Gnaraloo Bay,-23.7629651,113.5426,C,C3fk,6,10
+"duffy, 2026",North Muiron,-21.6509387,114.3744,C,C3gj,0,10
+"duffy, 2026",South Muiron,-21.6887216,114.3307,C,C3gj,0,10
+"duffy, 2026",North Bundegi,-21.8330332,114.1782,C,C3gj,0,10
+"duffy, 2026",South Bundegi,-21.8627722,114.1620,C,C3gj,3,10
+"duffy, 2026",Tantabiddi,-21.9006151,113.9558,C,C3gj,0,10
+"duffy, 2026",Mangrove,-21.9664525,113.9172,C,C3gj,0,10
+"duffy, 2026",Lakeside,-22.0366049,113.8999,C,C3gj,1,10
+"duffy, 2026",Pilgonaman,-22.1411171,113.8678,C,C3gj,3,10
+"duffy, 2026",Yardie Creek,-22.2595001,113.8211,C,C3gj,0,10
+"duffy, 2026",South Yardie,-22.3863358,113.7484,C,C3gj,0,10
+"duffy, 2026",Point Cloates,-22.7100516,113.6574,C,C3gj,3,10
+"duffy, 2026",North Reef,-22.9866855,113.7726,C,C3gj,2,10
+"duffy, 2026",South Coral Bay,-23.2727011,113.7776,C,C3gj,1,10
+"duffy, 2026",Gnaraloo Bay,-23.7629651,113.5426,C,C3gj,3,10
+"duffy, 2026",North Muiron,-21.6509387,114.3744,C,C3nf,0,10
+"duffy, 2026",South Muiron,-21.6887216,114.3307,C,C3nf,0,10
+"duffy, 2026",North Bundegi,-21.8330332,114.1782,C,C3nf,0,10
+"duffy, 2026",South Bundegi,-21.8627722,114.1620,C,C3nf,3,10
+"duffy, 2026",Tantabiddi,-21.9006151,113.9558,C,C3nf,0,10
+"duffy, 2026",Mangrove,-21.9664525,113.9172,C,C3nf,3,10
+"duffy, 2026",Lakeside,-22.0366049,113.8999,C,C3nf,6,10
+"duffy, 2026",Pilgonaman,-22.1411171,113.8678,C,C3nf,7,10
+"duffy, 2026",Yardie Creek,-22.2595001,113.8211,C,C3nf,8,10
+"duffy, 2026",South Yardie,-22.3863358,113.7484,C,C3nf,5,10
+"duffy, 2026",Point Cloates,-22.7100516,113.6574,C,C3nf,9,10
+"duffy, 2026",North Reef,-22.9866855,113.7726,C,C3nf,3,10
+"duffy, 2026",South Coral Bay,-23.2727011,113.7776,C,C3nf,5,10
+"duffy, 2026",Gnaraloo Bay,-23.7629651,113.5426,C,C3nf,7,10
+"duffy, 2026",North Muiron,-21.6509387,114.3744,C,C3gl,0,10
+"duffy, 2026",South Muiron,-21.6887216,114.3307,C,C3gl,0,10
+"duffy, 2026",North Bundegi,-21.8330332,114.1782,C,C3gl,0,10
+"duffy, 2026",South Bundegi,-21.8627722,114.1620,C,C3gl,3,10
+"duffy, 2026",Tantabiddi,-21.9006151,113.9558,C,C3gl,0,10
+"duffy, 2026",Mangrove,-21.9664525,113.9172,C,C3gl,3,10
+"duffy, 2026",Lakeside,-22.0366049,113.8999,C,C3gl,6,10
+"duffy, 2026",Pilgonaman,-22.1411171,113.8678,C,C3gl,8,10
+"duffy, 2026",Yardie Creek,-22.2595001,113.8211,C,C3gl,4,10
+"duffy, 2026",South Yardie,-22.3863358,113.7484,C,C3gl,4,10
+"duffy, 2026",Point Cloates,-22.7100516,113.6574,C,C3gl,7,10
+"duffy, 2026",North Reef,-22.9866855,113.7726,C,C3gl,4,10
+"duffy, 2026",South Coral Bay,-23.2727011,113.7776,C,C3gl,3,10
+"duffy, 2026",Gnaraloo Bay,-23.7629651,113.5426,C,C3gl,4,10
+"duffy, 2026",North Muiron,-21.6509387,114.3744,C,C3nc,0,10
+"duffy, 2026",South Muiron,-21.6887216,114.3307,C,C3nc,0,10
+"duffy, 2026",North Bundegi,-21.8330332,114.1782,C,C3nc,0,10
+"duffy, 2026",South Bundegi,-21.8627722,114.1620,C,C3nc,2,10
+"duffy, 2026",Tantabiddi,-21.9006151,113.9558,C,C3nc,0,10
+"duffy, 2026",Mangrove,-21.9664525,113.9172,C,C3nc,0,10
+"duffy, 2026",Lakeside,-22.0366049,113.8999,C,C3nc,2,10
+"duffy, 2026",Pilgonaman,-22.1411171,113.8678,C,C3nc,2,10
+"duffy, 2026",Yardie Creek,-22.2595001,113.8211,C,C3nc,4,10
+"duffy, 2026",South Yardie,-22.3863358,113.7484,C,C3nc,3,10
+"duffy, 2026",Point Cloates,-22.7100516,113.6574,C,C3nc,4,10
+"duffy, 2026",North Reef,-22.9866855,113.7726,C,C3nc,1,10
+"duffy, 2026",South Coral Bay,-23.2727011,113.7776,C,C3nc,0,10
+"duffy, 2026",Gnaraloo Bay,-23.7629651,113.5426,C,C3nc,1,10
+"duffy, 2026",North Muiron,-21.6509387,114.3744,C,C1,0,10
+"duffy, 2026",South Muiron,-21.6887216,114.3307,C,C1,2,10
+"duffy, 2026",North Bundegi,-21.8330332,114.1782,C,C1,1,10
+"duffy, 2026",South Bundegi,-21.8627722,114.1620,C,C1,4,10
+"duffy, 2026",Tantabiddi,-21.9006151,113.9558,C,C1,2,10
+"duffy, 2026",Mangrove,-21.9664525,113.9172,C,C1,5,10
+"duffy, 2026",Lakeside,-22.0366049,113.8999,C,C1,6,10
+"duffy, 2026",Pilgonaman,-22.1411171,113.8678,C,C1,5,10
+"duffy, 2026",Yardie Creek,-22.2595001,113.8211,C,C1,5,10
+"duffy, 2026",South Yardie,-22.3863358,113.7484,C,C1,5,10
+"duffy, 2026",Point Cloates,-22.7100516,113.6574,C,C1,10,10
+"duffy, 2026",North Reef,-22.9866855,113.7726,C,C1,4,10
+"duffy, 2026",South Coral Bay,-23.2727011,113.7776,C,C1,5,10
+"duffy, 2026",Gnaraloo Bay,-23.7629651,113.5426,C,C1,7,10
+"duffy, 2026",North Muiron,-21.6509387,114.3744,C,C40,4,10
+"duffy, 2026",South Muiron,-21.6887216,114.3307,C,C40,4,10
+"duffy, 2026",North Bundegi,-21.8330332,114.1782,C,C40,1,10
+"duffy, 2026",South Bundegi,-21.8627722,114.1620,C,C40,3,10
+"duffy, 2026",Tantabiddi,-21.9006151,113.9558,C,C40,2,10
+"duffy, 2026",Mangrove,-21.9664525,113.9172,C,C40,3,10
+"duffy, 2026",Lakeside,-22.0366049,113.8999,C,C40,2,10
+"duffy, 2026",Pilgonaman,-22.1411171,113.8678,C,C40,0,10
+"duffy, 2026",Yardie Creek,-22.2595001,113.8211,C,C40,0,10
+"duffy, 2026",South Yardie,-22.3863358,113.7484,C,C40,0,10
+"duffy, 2026",Point Cloates,-22.7100516,113.6574,C,C40,0,10
+"duffy, 2026",North Reef,-22.9866855,113.7726,C,C40,0,10
+"duffy, 2026",South Coral Bay,-23.2727011,113.7776,C,C40,0,10
+"duffy, 2026",Gnaraloo Bay,-23.7629651,113.5426,C,C40,0,10
+"duffy, 2026",North Muiron,-21.6509387,114.3744,C,C50a,0,10
+"duffy, 2026",South Muiron,-21.6887216,114.3307,C,C50a,0,10
+"duffy, 2026",North Bundegi,-21.8330332,114.1782,C,C50a,0,10
+"duffy, 2026",South Bundegi,-21.8627722,114.1620,C,C50a,3,10
+"duffy, 2026",Tantabiddi,-21.9006151,113.9558,C,C50a,0,10
+"duffy, 2026",Mangrove,-21.9664525,113.9172,C,C50a,3,10
+"duffy, 2026",Lakeside,-22.0366049,113.8999,C,C50a,5,10
+"duffy, 2026",Pilgonaman,-22.1411171,113.8678,C,C50a,4,10
+"duffy, 2026",Yardie Creek,-22.2595001,113.8211,C,C50a,3,10
+"duffy, 2026",South Yardie,-22.3863358,113.7484,C,C50a,4,10
+"duffy, 2026",Point Cloates,-22.7100516,113.6574,C,C50a,4,10
+"duffy, 2026",North Reef,-22.9866855,113.7726,C,C50a,3,10
+"duffy, 2026",South Coral Bay,-23.2727011,113.7776,C,C50a,5,10
+"duffy, 2026",Gnaraloo Bay,-23.7629651,113.5426,C,C50a,9,10
+"gilmour, 2016",Scott Reef,-14.0667,121.7755,C,C40a,52,52
