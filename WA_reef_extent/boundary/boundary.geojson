@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"boundary"},"geometry":
+{"type":"MultiPolygon","coordinates":[[[[112.09794,-11.52312],[128.35875,-11.56493],[128.27339,-29.27305],[112.14062,-29.27305],[112.09794,-28.56326],[112.09794,-11.52312]]]]}
+}]}

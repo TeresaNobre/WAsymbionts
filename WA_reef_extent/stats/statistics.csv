@@ -1,0 +1,19 @@
+class_type,class_name,cover_fraction,cover_sqkm
+benthic,Rock,0.1305,913.7237
+benthic,Rubble,0.1610,1127.7510
+benthic,Sand,0.3699,2591.0730
+benthic,Microalgal Mats,0.0195,136.3906
+benthic,Coral/Algae,0.2550,1785.8928
+benthic,Seagrass,0.0641,449.1605
+geomorphic,Reef Slope,0.0567,416.5252
+geomorphic,Sheltered Reef Slope,0.0270,198.5791
+geomorphic,Reef Crest,0.0069,50.9977
+geomorphic,Outer Reef Flat,0.1359,997.4022
+geomorphic,Terrestrial Reef Flat,0.2157,1583.1813
+geomorphic,Plateau,0.0292,214.5028
+geomorphic,Patch Reefs,0.0107,78.2772
+geomorphic,Back Reef Slope,0.2413,1771.7635
+geomorphic,Shallow Lagoon,0.1106,811.6213
+geomorphic,Deep Lagoon,0.0453,332.2788
+geomorphic,Inner Reef Flat,0.1207,886.1151
+reefextent,Reef,1.0000,9176.7705
