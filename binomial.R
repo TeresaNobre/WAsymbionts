@@ -2,6 +2,14 @@ require(tidyverse)
 require(magrittr)
 require(lme4)
 
+# odds = p/(1-p)
+# log(odds)
+# link = log(p/(1-p))
+# inverse link or logistic = 1/(1 + exp(-x))
+
+
+
+
 # 1. Data ####
 # 1.1 Load data ####
 data <- read_csv("~/Desktop/WAsymbionts/presence_absence.csv") %T>%
@@ -48,6 +56,35 @@ mod_clade <- glm(presence ~ lat_c * clade,
                  family = binomial(link = "logit"), 
                  data = data_long %>%
                    mutate(clade = clade %>% fct_relevel("C")))
+
+mod_clade_simple <- glm(presence ~ clade, 
+                 family = binomial(link = "logit"), 
+                 data = data_long %>%
+                   mutate(clade = clade %>% fct_relevel("C")))
+
+mod_clade_simpleA <- glm(presence ~ clade, 
+                        family = binomial(link = "logit"), 
+                        data = data_long %>%
+                        mutate(clade = clade %>% fct_relevel("A")))
+
+summary(mod_clade_simpleA)
+
+mod_clade_simpleB <- glm(presence ~ clade, 
+                         family = binomial(link = "logit"), 
+                         data = data_long %>%
+                           mutate(clade = clade %>% fct_relevel("B")))
+
+summary(mod_clade_simpleB)
+
+mod_clade_simpleD <- glm(presence ~ clade, 
+                         family = binomial(link = "logit"), 
+                         data = data_long %>%
+                           mutate(clade = clade %>% fct_relevel("D")))
+
+summary(mod_clade_simpleD)
+
+# 1/(1 + exp(--1.7772)) = probability (-1.7772 is intercept estimate)
+# Inv(alpha) = prevalence at baseline as a proportion/probability
 
 # OUTCOME: 
 # - Clade C (reference): 51% presence at -22°S, increases 15% per degree north (p < 0.001)
